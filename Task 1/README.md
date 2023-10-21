@@ -27,7 +27,9 @@ We evaluate our model by comparing our predicted cost with the real cost and see
 
 ### Features Selection
 To select features to use we have to see how features affect the target variable by using correlation matrix
+
 ![correlation matrix](imgs/Correlation.png)
+
 as we see **age, bmi and smokers** are the most effective features so we will use them
 
 ### Output
